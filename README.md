@@ -1,2 +1,3 @@
-# camelion
-Mass Perl 6 module install utility
+# Camelion
+
+![](assets/logo-small.png) Mass Perl 6 module install utility
